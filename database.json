@@ -3,5 +3,10 @@
     "name": "conan",
     "genre": "sci-fi",
     "year": "2009"
+  },
+  {
+    "name": "killer petter",
+    "genre": "drama",
+    "year": "2020"
   }
 ]
